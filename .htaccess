@@ -1,0 +1,11 @@
+#Protegendo seu arquivo .htaccess
+<files ~ "^.*\.([Hh][Tt][Aa])">
+order allow,deny
+deny from all
+satisfy all
+</files>
+
+#Evitando a listagem de diretórios
+Options -Indexes
+
+

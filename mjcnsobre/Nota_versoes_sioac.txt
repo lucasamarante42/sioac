@@ -1,0 +1,13 @@
+Projeto Sioac
+Versoes
+
+PHP
+Bootstrap - Version v3.3.7
+Jquery    - Version jquery-3.2.1.min.js
+Validate  - Version 0.8.5 (http://pear.php.net/manual/en/package.validate.validate.string.php)
+Xamp - Version 7.1.1.0
+Captcha Securimage - A PHP class for creating captcha images and audio with many options - Version 3.6.4
+
+
+Observação: 
+***Sobre cadastro no banco de dados os registros número 1 devem ser separados para o funcionamento de liberar telão.
